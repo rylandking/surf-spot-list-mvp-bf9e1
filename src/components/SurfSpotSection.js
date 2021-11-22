@@ -4,7 +4,6 @@ export default function SurfSpotSection({ annotationPrefix, titleContraction, na
     return (
         <div>
             <p>{titleContraction} surf is an intermediate right reef break.</p>
-            <p>{name}</p>
         </div >
     )
 }
