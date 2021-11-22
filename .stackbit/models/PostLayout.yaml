@@ -3,7 +3,7 @@ label: Post
 layout: PostLayout
 fields:
   - type: string
-    name: 
+    name: video
   - type: string
     name: title
     label: Title
