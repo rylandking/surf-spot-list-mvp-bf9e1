@@ -13,6 +13,13 @@ export default function PostLayout(props) {
     const dateTimeAttr = dayjs(page.date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(page.date).format('MMMM D, YYYY');
 
+    let ssName = doc.id
+		.replace(/-/g, ' ')
+		.toLowerCase()
+		.split(' ')
+		.map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+		.join(' ');
+
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="layout post-layout">
