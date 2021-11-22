@@ -7,7 +7,11 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   altText: Post thumbnail image
-bottomSections: []
+bottomSections:
+  - body: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    type: SurfSpotSection
 layout: PostLayout
 ---
 ## Lorem ipsum
