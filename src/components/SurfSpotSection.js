@@ -1,5 +1,5 @@
 import * as React from 'react';
 
 export default function SurfSpotSection({body}) {
-    <p>{body}</p>
+    <p data-sb-field-path=".body">{body}</p>
 }
