@@ -20,7 +20,7 @@ export default function PostLayout(props) {
         .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
         .join(' ');
     // Set surf spot contraction
-	if (ssName.endsWith('s')) {
+	if (title.endsWith('s')) {
 		ssNameContraction = `${ssName}'`;
 	} else {
 		ssNameContraction = `${ssName}'s`;
