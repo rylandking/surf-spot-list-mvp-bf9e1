@@ -23,15 +23,15 @@ fields:
     name: excerpt
     label: Excerpt
     default: This is the excerpt of your blog post visible in the post feed or featured posts.
-  - type: model
-    name: featuredImage
-    label: Featured image
-    models:
-      - ImageBlock
-    default:
-      type: ImageBlock
-      url: /images/post-1.jpeg
-      altText: Post thumbnail image
+  # - type: model
+  #   name: featuredImage
+  #   label: Featured image
+  #   models:
+  #     - ImageBlock
+  #   default:
+  #     type: ImageBlock
+  #     url: /images/post-1.jpeg
+  #     altText: Post thumbnail image
   - type: list
     name: bottomSections
     label: Sections
