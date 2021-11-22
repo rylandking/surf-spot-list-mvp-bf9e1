@@ -1,4 +1,4 @@
-name: AlertSection
+name: SurfSpotSection
 label: Alert Section
 groups:
   - sectionComponent
