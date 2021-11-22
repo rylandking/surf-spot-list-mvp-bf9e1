@@ -4,4 +4,4 @@ groups:
   - sectionComponent
 fields:
   - type: text
-    name: surfSpotName
+    name: name
