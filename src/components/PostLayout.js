@@ -13,8 +13,7 @@ export default function PostLayout(props) {
     const dateTimeAttr = dayjs(page.date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(page.date).format('MMMM D, YYYY');
 
-    const title = page.title
-        .replace(/-/g, ' ')
+    const title = page.title.replace(/-/g, ' ')
         .toLowerCase()
         .split(' ')
         .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
