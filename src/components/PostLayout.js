@@ -1,7 +1,7 @@
 import * as React from 'react';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
-import ImageBlock from '@stackbit/components/dist/';
+import ImageBlock from '@stackbit/components/dist/components/ImageBlock';
 import { getBaseLayoutComponent } from '../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 
