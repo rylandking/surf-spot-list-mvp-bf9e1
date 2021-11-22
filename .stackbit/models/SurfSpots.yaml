@@ -1,5 +1,5 @@
 name: SurfSpotSection
-label: Alert Section
+label: Surf Spot Section
 groups:
   - sectionComponent
 fields:
