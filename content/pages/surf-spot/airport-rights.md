@@ -1,9 +1,6 @@
 ---
 title: Airport Rights
 date: '2021-11-22'
-featuredImage:
-  type: ImageBlock
-  altText: Post thumbnail image
 bottomSections:
   - body: This is the surf spot section
     type: SurfSpotSection
