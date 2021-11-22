@@ -28,7 +28,7 @@ export default function PostLayout(props) {
                         <header className="max-w-screen-md mx-auto mb-12 text-center">
                             {page.title && (
                                 <h1 className="text-4xl sm:text-5xl mb-6 max-w-xl mx-auto" data-sb-field-path="title">
-                                    {page.title}
+                                    {title}
                                 </h1>
                             )}
                             <div className="text-lg">
