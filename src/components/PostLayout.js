@@ -4,6 +4,7 @@ import Markdown from 'markdown-to-jsx';
 import ImageBlock from '@stackbit/components/dist/components/ImageBlock';
 import { getBaseLayoutComponent } from '@stackbit/components/dist/utils/base-layout';
 import { getComponent } from '@stackbit/components/dist/components-registry';
+import SurfSpotSection from './SurfSpotSection';
 
 export default function PostLayout(props) {
     const { page, site } = props;
@@ -30,7 +31,7 @@ export default function PostLayout(props) {
                                 {page.author && postAuthor(page.author)}
                             </div>
                         </header>
-                        
+                        <SurfSpotSection
                         {/* {page.featuredImage && (
                             <figure className="h-0 w-full pt-9/16 max-w-screen-xl mx-auto mb-8 relative" data-sb-field-path="featuredImage">
                                 <ImageBlock {...page.featuredImage} className="absolute left-0 top-0 h-full w-full object-cover" />
