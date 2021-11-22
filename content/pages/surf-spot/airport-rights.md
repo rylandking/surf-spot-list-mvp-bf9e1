@@ -6,4 +6,3 @@ bottomSections:
     type: SurfSpotSection
 layout: PostLayout
 ---
-*
