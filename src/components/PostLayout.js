@@ -14,11 +14,11 @@ export default function PostLayout(props) {
     const formattedDate = dayjs(page.date).format('MMMM D, YYYY');
 
     let title = page.title
-		.replace(/-/g, ' ')
-		.toLowerCase()
-		.split(' ')
-		.map((s) => s.charAt(0).toUpperCase() + s.substring(1))
-		.join(' ');
+        .replace(/-/g, ' ')
+        .toLowerCase()
+        .split(' ')
+        .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+        .join(' ');
 
     return (
         <BaseLayout page={page} site={site}>
@@ -38,7 +38,7 @@ export default function PostLayout(props) {
                                 {page.author && postAuthor(page.author)}
                             </div>
                         </header>
-                        <SurfSpotSection title={page.title} />
+                        <SurfSpotSection title={title} />
                         {/* {page.featuredImage && (
                             <figure className="h-0 w-full pt-9/16 max-w-screen-xl mx-auto mb-8 relative" data-sb-field-path="featuredImage">
                                 <ImageBlock {...page.featuredImage} className="absolute left-0 top-0 h-full w-full object-cover" />
