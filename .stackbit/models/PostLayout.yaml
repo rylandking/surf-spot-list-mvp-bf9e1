@@ -4,7 +4,7 @@ layout: PostLayout
 fields:
   - type: string
     name: video
-    label: 
+    label: Video
   - type: string
     name: title
     label: Title
