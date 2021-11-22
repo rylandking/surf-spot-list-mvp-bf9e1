@@ -6,7 +6,7 @@ registerComponents({
     // Register all Stackbit components
     ...componentsMap,
     SurfSpotSection: dynamic(() => import('./SurfSpotSection.js'))
-    SurfSpotSection: dynamic(() => import('./SurfSpotSection.js'))
+    PostLayout: dynamic(() => import('./PostLayout.js'))
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
