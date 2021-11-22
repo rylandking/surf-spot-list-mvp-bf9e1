@@ -3,7 +3,7 @@ label: Post
 layout: PostLayout
 fields:
   - type: string
-    name: title
+    name: name
     label: Title
     default: Post Title
     required: true
