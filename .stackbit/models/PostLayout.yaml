@@ -23,7 +23,7 @@ fields:
     label: Continent
     controlType: 'dropdown'
     options:
-      - label: Short Board
+      - label: North America
         value: north-america
       - label: Mid-Length
         value: mid-length
