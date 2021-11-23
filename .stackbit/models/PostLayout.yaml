@@ -12,7 +12,7 @@ fields:
     label: Best Board
     controlType: 'dropdown'
     options:
-      - label: Primary Color
+      - label: Short Board
         value: primary
       - label: Secondary Color
         value: secondary
