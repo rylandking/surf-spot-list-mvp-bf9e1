@@ -39,11 +39,6 @@ export default function PostLayout(props) {
                             )}
                         </header>
                         <SurfSpotSection titleContraction={titleContraction} />
-                        {/* {page.featuredImage && (
-                            <figure className="h-0 w-full pt-9/16 max-w-screen-xl mx-auto mb-8 relative" data-sb-field-path="featuredImage">
-                                <ImageBlock {...page.featuredImage} className="absolute left-0 top-0 h-full w-full object-cover" />
-                            </figure>
-                        )} */}
                         {page.markdown_content && (
                             <Markdown options={{ forceBlock: true }} className="sb-markdown max-w-screen-md mx-auto" data-sb-field-path="markdown_content">
                                 {page.markdown_content}
