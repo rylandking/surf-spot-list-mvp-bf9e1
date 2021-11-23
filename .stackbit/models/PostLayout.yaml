@@ -19,7 +19,7 @@ fields:
       - label: Long Board
         value: long-board
   - type: reference
-    name: contitents
+    name: continents
     label: Author
     models:
       - Person
