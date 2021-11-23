@@ -8,7 +8,7 @@ fields:
     default: Post Title
     required: true
   - type: board
-    name:
+    name: board
   - type: string
     name: video
     label: Video
