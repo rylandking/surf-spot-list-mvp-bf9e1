@@ -13,7 +13,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Short Board
-        value: primary
+        value: short-board
       - label: Secondary Color
         value: secondary
   - type: string
