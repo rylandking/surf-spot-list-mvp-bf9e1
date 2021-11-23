@@ -35,8 +35,8 @@ fields:
         value: pacific-ocean
       - label: Indian Ocean
         value: indian-ocean
-      - label: indonesia
-        value: north-america
+      - label: Indonesia
+        value: indonesia
       - label: North America
         value: north-america
       - label: North America
