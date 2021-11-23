@@ -58,11 +58,7 @@ fields:
   - type: string
     name: video
     label: Video
-  - type: reference
-    name: author
-    label: Author
-    models:
-      - Person
+  
   - type: string
     name: excerpt
     label: Excerpt
