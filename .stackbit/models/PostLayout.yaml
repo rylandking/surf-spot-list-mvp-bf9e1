@@ -43,10 +43,6 @@ fields:
         value: north-america
       - label: North America
         value: north-america
-      - label: Mid-Length
-        value: mid-length
-      - label: Long Board
-        value: long-board
   - type: string
     name: video
     label: Video
