@@ -49,6 +49,7 @@ fields:
         value: middle-east
   - type: string
     name: surfLessons
+    label: Surf lessons nearby?
     
   - type: string
     name: video
