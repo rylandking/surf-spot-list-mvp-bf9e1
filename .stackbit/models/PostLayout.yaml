@@ -42,7 +42,7 @@ fields:
     default: false
   - type: boolean
     name: rentalsNearby
-    label: Surf lessons nearby?
+    label: Surf rentals nearby?
     default: false
   - type: list
     name: bottomSections
