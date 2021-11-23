@@ -49,7 +49,7 @@ fields:
     label: Water Temperature
     controlType: 'dropdown'
     options:
-      - label: North America
+      - label: Wetsuit
         value: north-america
       - label: Central America
         value: central-america
