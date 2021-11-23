@@ -1,2 +1,31 @@
 name: Continents
 label: Continents
+  - type: enum
+    name: continent
+    label: Continent
+    controlType: 'dropdown'
+    options:
+      - label: North America
+        value: north-america
+      - label: Central America
+        value: central-america
+      - label: South America
+        value: south-america
+      - label: Caribbean
+        value: caribbean
+      - label: Pacific Ocean
+        value: pacific-ocean
+      - label: Indian Ocean
+        value: indian-ocean
+      - label: Indonesia
+        value: indonesia
+      - label: Australia
+        value: australia
+      - label: Europe
+        value: europe
+      - label: Africa
+        value: africa
+      - label: Asia
+        value: asia
+      - label: Middle East
+        value: middle-east
