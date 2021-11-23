@@ -54,7 +54,7 @@ fields:
     - label: 'Yes'
       value: 'yes'
     - label: 'No'
-      value: middle-east
+      value: 'no'
   - type: string
     name: video
     label: Video
