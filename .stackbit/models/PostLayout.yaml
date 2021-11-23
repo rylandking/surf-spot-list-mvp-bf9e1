@@ -18,11 +18,6 @@ fields:
         value: mid-length
       - label: Long Board
         value: long-board
-  - type: reference
-    name: continent
-    label: Continent
-    models:
-      - Continents
   - type: enum
     name: continent
     label: Continent
