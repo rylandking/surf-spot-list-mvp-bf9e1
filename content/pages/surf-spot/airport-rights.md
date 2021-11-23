@@ -6,3 +6,11 @@ name: 'name field'
 bottomSections: []
 layout: PostLayout
 ---
+
+name: AlertSection
+label: Alert Section
+groups:
+  - sectionComponent
+fields:
+  - type: text
+    name: body
