@@ -50,6 +50,7 @@ fields:
   - type: string
     name: surfLessons
     label: Surf lessons nearby?
+    controlType: 'dropdown'
     
   - type: string
     name: video
