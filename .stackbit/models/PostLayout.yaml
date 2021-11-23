@@ -14,8 +14,8 @@ fields:
     options:
       - label: Short Board
         value: short-board
-      - label: Secondary Color
-        value: secondary
+      - label: Mid-Length
+        value: mid-length
   - type: string
     name: video
     label: Video
