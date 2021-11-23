@@ -52,7 +52,7 @@ fields:
     label: Surf lessons nearby?
     controlType: 'dropdown'
     - label: 'Yes'
-      value: true
+      value: yes
     - label: Middle East
       value: middle-east
   - type: string
