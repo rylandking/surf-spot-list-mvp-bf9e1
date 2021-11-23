@@ -10,7 +10,7 @@ fields:
   - type: enum
     name: board
     label: Best Board
-    default: 
+    
   - type: string
     name: video
     label: Video
