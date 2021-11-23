@@ -24,7 +24,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Short Board
-        value: short-board
+        value: north-america
       - label: Mid-Length
         value: mid-length
       - label: Long Board
