@@ -10,7 +10,11 @@ fields:
   - type: enum
     name: board
     label: Best Board
-    
+     options:
+    - label: Primary Color
+      value: primary
+    - label: Secondary Color
+      value: secondary
   - type: string
     name: video
     label: Video
