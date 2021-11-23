@@ -51,7 +51,10 @@ fields:
     name: surfLessons
     label: Surf lessons nearby?
     controlType: 'dropdown'
-    
+    - label: Asia
+        value: asia
+      - label: Middle East
+        value: middle-east
   - type: string
     name: video
     label: Video
