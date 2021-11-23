@@ -44,7 +44,7 @@ fields:
     name: rentalsNearby
     label: Surf rentals nearby?
     default: false
-    - type: enum
+  - type: enum
     name: continent
     label: 🌎 Continent
     controlType: 'dropdown'
