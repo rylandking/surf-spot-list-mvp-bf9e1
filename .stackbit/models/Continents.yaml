@@ -1,5 +1,6 @@
 name: Continents
 label: Continents
+fields:
   - type: enum
     name: continent
     label: Continent
