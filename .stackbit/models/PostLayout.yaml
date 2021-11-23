@@ -51,7 +51,7 @@ fields:
     name: lessonsNearby
     label: Surf lessons nearby?
     controlType: 'dropdown'
-- type: boolean
+  - type: boolean
     name: showIcon
     group: styles
     label: Show icon
