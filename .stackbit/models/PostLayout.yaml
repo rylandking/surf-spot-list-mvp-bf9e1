@@ -46,7 +46,7 @@ fields:
       - label: Asia
         value: asia
       - label: Middle East
-        value: north-america
+        value: middle-east
   - type: string
     name: video
     label: Video
