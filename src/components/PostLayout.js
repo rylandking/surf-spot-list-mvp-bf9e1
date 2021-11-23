@@ -37,12 +37,6 @@ export default function PostLayout(props) {
                                     {title}
                                 </h1>
                             )}
-                            <div className="text-lg">
-                                <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                    {formattedDate}
-                                </time>
-                                {page.author && postAuthor(page.author)}
-                            </div>
                         </header>
                         <SurfSpotSection titleContraction={titleContraction} />
                         {/* {page.featuredImage && (
