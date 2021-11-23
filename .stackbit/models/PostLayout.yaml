@@ -31,8 +31,8 @@ fields:
         value: south-america
       - label: Caribbean
         value: caribbean
-      - label: North America
-        value: north-america
+      - label: Pacific Ocean
+        value: pacific-ocean
       - label: North America
         value: north-america
       - label: North America
