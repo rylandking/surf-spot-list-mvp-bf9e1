@@ -58,7 +58,6 @@ fields:
   - type: string
     name: video
     label: Video
-  
   - type: string
     name: excerpt
     label: Excerpt
