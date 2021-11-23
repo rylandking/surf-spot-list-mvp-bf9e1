@@ -44,7 +44,17 @@ fields:
     name: rentalsNearby
     label: Surf rentals nearby?
     default: false
-  
+    - type: enum
+    name: continent
+    label: 🌎 Continent
+    controlType: 'dropdown'
+    options:
+      - label: North America
+        value: north-america
+      - label: Central America
+        value: central-america
+      - label: South America
+        value: south-america
   - type: list
     name: bottomSections
     label: Sections
