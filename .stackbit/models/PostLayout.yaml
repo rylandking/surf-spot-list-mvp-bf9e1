@@ -22,7 +22,7 @@ fields:
     name: continents
     label: Continents
     models:
-      - Person
+      - Continents
   - type: enum
     name: continent
     label: Continent
