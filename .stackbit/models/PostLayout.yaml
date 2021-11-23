@@ -9,7 +9,7 @@ fields:
     required: true
   - type: enum
     name: board
-    label: Board Type
+    label: Best Board
   - type: string
     name: video
     label: Video
