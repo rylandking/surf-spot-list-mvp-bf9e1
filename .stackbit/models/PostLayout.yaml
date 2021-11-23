@@ -52,7 +52,7 @@ fields:
       - label: Wetsuit
         value: wetsuit
       - label: Trunks
-        value: central-america
+        value: trunks
       - label: South America
         value: south-america
   - type: list
