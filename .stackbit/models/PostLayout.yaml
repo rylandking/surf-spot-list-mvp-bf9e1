@@ -40,10 +40,17 @@ fields:
     name: lessonsNearby
     label: Surf lessons nearby?
     default: false
-  - type: string
-    name: excerpt
-    label: Excerpt
-    default: This is the excerpt of your blog post visible in the post feed or featured posts.
+  - type: enum
+    name: board
+    label: Best Board
+    controlType: 'dropdown'
+    options:
+      - label: Short Board
+        value: short-board
+      - label: Mid-Length
+        value: mid-length
+      - label: Long Board
+        value: long-board
   - type: list
     name: bottomSections
     label: Sections
