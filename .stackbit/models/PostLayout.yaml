@@ -50,8 +50,6 @@ fields:
   - type: boolean
     name: lessonsNearby
     label: Surf lessons nearby?
-    controlType: 'dropdown'
-    label: Show icon
     default: false
   - type: string
     name: video
