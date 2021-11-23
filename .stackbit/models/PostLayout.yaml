@@ -19,8 +19,8 @@ fields:
       - label: Long Board
         value: long-board
   - type: reference
-    name: continents
-    label: Continents
+    name: continent
+    label: Continent
     models:
       - Continents
   - type: enum
