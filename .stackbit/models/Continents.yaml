@@ -1,5 +1,5 @@
-name: Continent
-label: Continent
+name: Continents
+label: Continents
 fields:
   - type: enum
     name: continent
