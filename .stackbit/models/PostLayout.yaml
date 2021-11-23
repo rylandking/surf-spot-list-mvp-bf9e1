@@ -19,7 +19,7 @@ fields:
       - label: Long Board
         value: long-board
   - type: reference
-    name: contintents
+    name: contitents
     label: Author
     models:
       - Person
