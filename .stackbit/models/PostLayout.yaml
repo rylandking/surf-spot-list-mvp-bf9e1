@@ -29,8 +29,8 @@ fields:
         value: central-america
       - label: South America
         value: south-america
-      - label: C
-        value: north-america
+      - label: Caribbean
+        value: caribbean
       - label: North America
         value: north-america
       - label: North America
