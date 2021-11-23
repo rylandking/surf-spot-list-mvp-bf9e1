@@ -48,7 +48,7 @@ fields:
       - label: Middle East
         value: middle-east
   - type: boolean
-    name: surfLessons
+    name: lessonsNearby
     label: Surf lessons nearby?
     controlType: 'dropdown'
     - label: 'Yes'
