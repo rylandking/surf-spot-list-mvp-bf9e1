@@ -16,6 +16,8 @@ fields:
         value: short-board
       - label: Mid-Length
         value: mid-length
+      - label: Mid-Length
+        value: mid-length
   - type: string
     name: video
     label: Video
