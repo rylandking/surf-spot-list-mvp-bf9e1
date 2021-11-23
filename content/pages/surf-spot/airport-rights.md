@@ -5,7 +5,6 @@ video: 'https://youtu.be/VuQ23mhyBV8'
 name: 'name field'
 bottomSections: []
 layout: PostLayout
----
 
 name: AlertSection
 label: Alert Section
@@ -14,3 +13,4 @@ groups:
 fields:
   - type: text
     name: body
+---
