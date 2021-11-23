@@ -10,7 +10,8 @@ fields:
   - type: enum
     name: board
     label: Best Board
-     options:
+    controlType: 'dropdown'
+  options:
     - label: Primary Color
       value: primary
     - label: Secondary Color
