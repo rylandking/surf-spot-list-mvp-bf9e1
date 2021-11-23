@@ -20,7 +20,7 @@ fields:
         value: long-board
   - type: enum
     name: continent
-    label: Best Board
+    label: Continent
     controlType: 'dropdown'
     options:
       - label: Short Board
