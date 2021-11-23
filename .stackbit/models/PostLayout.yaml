@@ -7,6 +7,9 @@ fields:
     label: Title
     default: Post Title
     required: true
+  - type: string
+    name: video
+    label: Video
   - type: date
     name: date
     label: Date
