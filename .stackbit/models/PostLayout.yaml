@@ -20,7 +20,7 @@ fields:
         value: long-board
   - type: reference
     name: continents
-    label: Author
+    label: Continents
     models:
       - Person
   - type: enum
