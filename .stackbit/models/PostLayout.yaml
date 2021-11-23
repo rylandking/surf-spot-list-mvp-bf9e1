@@ -44,7 +44,7 @@ fields:
       - label: Africa
         value: africa
       - label: Asia
-        value: north-america
+        value: asia
       - label: North America
         value: north-america
   - type: string
