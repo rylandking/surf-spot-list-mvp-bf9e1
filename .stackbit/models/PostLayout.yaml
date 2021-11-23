@@ -7,7 +7,7 @@ fields:
     label: Title
     default: Post Title
     required: true
-  - type: board
+  - type: enum
     name: board
   - type: string
     name: video
