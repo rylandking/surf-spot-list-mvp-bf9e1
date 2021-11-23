@@ -46,7 +46,7 @@ fields:
     default: false
   - type: enum
     name: waterTemp
-    label: 🌎 Continent
+    label: 🌎 Water Temp
     controlType: 'dropdown'
     options:
       - label: North America
