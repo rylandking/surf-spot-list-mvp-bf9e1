@@ -40,6 +40,10 @@ fields:
     name: lessonsNearby
     label: Surf lessons nearby?
     default: false
+  - type: boolean
+    name: lessonsNearby
+    label: Surf lessons nearby?
+    default: false
   - type: list
     name: bottomSections
     label: Sections
