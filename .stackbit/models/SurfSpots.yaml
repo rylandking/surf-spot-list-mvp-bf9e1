@@ -5,4 +5,5 @@ groups:
 fields:
   - type: text
     name: name
-  - type: 
+  - type: text
+  - name: test
