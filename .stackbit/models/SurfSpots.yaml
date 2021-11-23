@@ -5,3 +5,4 @@ groups:
 fields:
   - type: text
     name: name
+  - type: 
