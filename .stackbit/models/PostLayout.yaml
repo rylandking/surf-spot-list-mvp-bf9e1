@@ -41,7 +41,7 @@ fields:
     label: Surf lessons nearby?
     default: false
   - type: boolean
-    name: lessonsNearby
+    name: rentalsNearby
     label: Surf lessons nearby?
     default: false
   - type: list
