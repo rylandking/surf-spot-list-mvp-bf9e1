@@ -46,7 +46,7 @@ aug: 100
 swellDir: S
 sitDownRestaurants: ""
 sharky: ""
-contintent: north-america
+contintents: north-america
 jun: 100
 jul: 100
 nightlife: ""
