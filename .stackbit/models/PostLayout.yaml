@@ -53,7 +53,7 @@ fields:
     controlType: 'dropdown'
     - label: 'Yes'
       value: 'yes'
-    - label: Middle East
+    - label: 'No'
       value: middle-east
   - type: string
     name: video
