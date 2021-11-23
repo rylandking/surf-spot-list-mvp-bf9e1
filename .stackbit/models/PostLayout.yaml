@@ -20,7 +20,7 @@ fields:
         value: long-board
   - type: enum
     name: continent
-    label: Continent
+    label: 🌎 Continent
     controlType: 'dropdown'
     options:
       - label: North America
