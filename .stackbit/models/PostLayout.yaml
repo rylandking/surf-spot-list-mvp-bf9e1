@@ -50,7 +50,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Wetsuit
-        value: north-america
+        value: wetsuit
       - label: Central America
         value: central-america
       - label: South America
