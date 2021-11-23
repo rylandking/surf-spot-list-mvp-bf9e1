@@ -11,11 +11,11 @@ fields:
     name: board
     label: Best Board
     controlType: 'dropdown'
-  options:
-    - label: Primary Color
-      value: primary
-    - label: Secondary Color
-      value: secondary
+    options:
+      - label: Primary Color
+        value: primary
+      - label: Secondary Color
+        value: secondary
   - type: string
     name: video
     label: Video
