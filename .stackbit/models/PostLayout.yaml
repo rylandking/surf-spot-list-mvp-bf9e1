@@ -18,6 +18,11 @@ fields:
         value: mid-length
       - label: Long Board
         value: long-board
+  - type: reference
+    name: author
+    label: Author
+    models:
+      - Person
   - type: enum
     name: continent
     label: Continent
