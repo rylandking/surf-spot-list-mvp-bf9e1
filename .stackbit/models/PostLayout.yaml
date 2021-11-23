@@ -53,7 +53,6 @@ fields:
         value: wetsuit
       - label: Trunks
         value: trunks
-        value: south-america
   - type: list
     name: bottomSections
     label: Sections
