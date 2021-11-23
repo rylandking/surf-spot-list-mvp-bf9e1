@@ -48,7 +48,7 @@ fields:
       - label: Middle East
         value: middle-east
   - type: string
-    name: 
+    name: surf
   - type: string
     name: video
     label: Video
