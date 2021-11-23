@@ -10,10 +10,6 @@ fields:
   - type: string
     name: video
     label: Video
-  - type: date
-    name: date
-    label: Date
-    required: true
   - type: reference
     name: author
     label: Author
