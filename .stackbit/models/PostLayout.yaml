@@ -137,6 +137,8 @@ fields:
         value: 'reef'
       - label: Rockreef
         value: 'rockreef'
+      - label: Slab
+        value: 'slab'
   - type: list
     name: bottomSections
     label: Sections
