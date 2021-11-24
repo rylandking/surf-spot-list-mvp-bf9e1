@@ -167,7 +167,7 @@ fields:
         value: 'no'          
   - type: enum
     name: bottomType
-    label: ↔️ Bottom type?
+    label:  Bottom type?
     controlType: 'dropdown'
     options:
       - label: 'Yes'
