@@ -208,7 +208,7 @@ fields:
       - label: 'Yes'
         value: 'yes'
       - label: 'be-respectful'
-        value: 'spread-out'
+        value: 'be-respectful'
       - label: 'Uncrowded'
         value: 'uncrowded'
   - type: list
