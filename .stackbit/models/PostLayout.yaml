@@ -234,7 +234,7 @@ fields:
       - label: '80'
         value: 80
       - label: '60'
-        value: 'boat'
+        value: 60
       - label: 'Right Out Front'
         value: 'in-front'
   - type: string
