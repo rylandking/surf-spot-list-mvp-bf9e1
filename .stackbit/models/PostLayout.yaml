@@ -395,7 +395,7 @@ fields:
           label: Longitude
   - type: boolean
     name: isPowerful
-    label: 🛖 Can it be powerful?          
+    label:  Can it be powerful?          
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
