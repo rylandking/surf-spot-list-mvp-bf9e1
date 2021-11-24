@@ -213,7 +213,7 @@ fields:
         value: 'no'
   - type: enum
     name: accessibility
-    label: 👺 How localized is it?
+    label: 👺 How accessible is it?
     controlType: 'dropdown'
     options:
       - label: 'Yes'
