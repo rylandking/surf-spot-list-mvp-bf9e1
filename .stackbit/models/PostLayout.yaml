@@ -229,7 +229,7 @@ fields:
     label: 👺 How good is January?
     controlType: 'dropdown'
     options:
-      - label: '100'
+      - label: 'Green'
         value: 100
       - label: 'Light Green'
         value: 80
