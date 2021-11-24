@@ -184,9 +184,9 @@ fields:
     controlType: 'dropdown'
     options:
       - label: 'Sand'
-        value: 'sand'
+        value: 'comfortable'
       - label: 'Rock'
-        value: 'rock'
+        value: 'semi-comfortable'
       - label: 'Reef'
         value: 'reef'        
   - type: list
