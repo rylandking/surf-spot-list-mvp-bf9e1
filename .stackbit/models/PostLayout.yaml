@@ -390,7 +390,6 @@ fields:
         - type: number
           name: latitude
           label: Latitude
-          default: How it this different from what we have today?
         - type: markdown
           name: answer
           label: Answer
