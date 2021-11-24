@@ -226,7 +226,7 @@ fields:
         value: 'in-front'
   - type: enum
     name: janRating
-    label: 👺 How good is January?
+    label:  How good is January?
     controlType: 'dropdown'
     options:
       - label: 'Green'
