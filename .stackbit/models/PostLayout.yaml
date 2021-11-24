@@ -222,7 +222,7 @@ fields:
         value: 'hike'
       - label: 'No'
         value: 'boat'
-      - label: 'No'
+      - label: 'Right Out Front'
         value: 'in-front'
   - type: list
     name: bottomSections
