@@ -198,7 +198,7 @@ fields:
         value: 'a-zoo'
       - label: 'Spread Out'
         value: 'spread-out'
-      - label: 'No Beach'
+      - label: 'Minimal'
         value: 'minimal'        
   - type: list
     name: bottomSections
