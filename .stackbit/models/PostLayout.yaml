@@ -395,7 +395,7 @@ fields:
           label: Longitude
   - type: boolean
     name: isPowerful
-    label: 🛖 Surf lessons nearby?          
+    label: 🛖 Can it be powerful?          
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
