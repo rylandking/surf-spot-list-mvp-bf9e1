@@ -46,7 +46,7 @@ fields:
     default: false
   - type: enum
     name: waterTemp
-    label: Water temperature
+    label: 🌡 Water temperature
     controlType: 'dropdown'
     options:
       - label: Wetsuit
