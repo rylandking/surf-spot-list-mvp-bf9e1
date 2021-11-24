@@ -198,8 +198,8 @@ fields:
         value: 'a-zoo'
       - label: 'Spread Out'
         value: 'spread-out'
-      - label: 'Minimal'
-        value: 'minimal'        
+      - label: 'Uncrowded'
+        value: 'uncrowded'        
   - type: list
     name: bottomSections
     label: Sections
