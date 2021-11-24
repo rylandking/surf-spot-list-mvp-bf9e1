@@ -99,7 +99,7 @@ fields:
     label: Best tide
     controlType: 'dropdown'
     options:
-      - label: Waist High
+      - label: Low tide
         value: low
       - label: Medium tide
         value: medium
