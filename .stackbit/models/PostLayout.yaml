@@ -156,7 +156,7 @@ fields:
         value: 'both' 
   - type: enum
     name: isBarrel
-    label: ↔️ Wave direction
+    label: ↔️ Does it barrel?
     controlType: 'dropdown'
     options:
       - label: Right
