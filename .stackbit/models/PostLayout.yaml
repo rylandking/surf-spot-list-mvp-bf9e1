@@ -390,7 +390,7 @@ fields:
         - type: number
           name: latitude
           label: Latitude
-        - type: markdown
+        - type: number
           name: answer
           label: Answer
   - type: string
