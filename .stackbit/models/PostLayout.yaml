@@ -118,9 +118,9 @@ fields:
         value: 'SE'
       - label: Sout
         value: 'S'
-      - label: Medium tide
+      - label: Southwest
         value: 'SW'
-      - label: High tide
+      - label: West
         value: 'W'
       - label: All tides
         value: 'NW'
