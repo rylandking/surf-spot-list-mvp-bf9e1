@@ -392,7 +392,7 @@ fields:
           label: Latitude
         - type: number
           name: longitude
-          label: Answer
+          label: Longitude
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
