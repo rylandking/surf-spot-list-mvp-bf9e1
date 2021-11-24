@@ -382,7 +382,7 @@ fields:
         value: 40
   - type: list
     name: surfSpotLatLng
-    label: FAQ Items
+    label: Surf Spot Coordinates
     items:
       type: object
       labelField: question
