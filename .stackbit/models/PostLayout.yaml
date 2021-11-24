@@ -170,11 +170,11 @@ fields:
     label: 🐠 Bottom type?
     controlType: 'dropdown'
     options:
-      - label: 'Yes'
+      - label: 'Sand'
         value: 'sand'
-      - label: 'Sometimes'
+      - label: 'Rock'
         value: 'rock'
-      - label: 'No'
+      - label: 'Reef'
         value: 'reef'          
   - type: list
     name: bottomSections
