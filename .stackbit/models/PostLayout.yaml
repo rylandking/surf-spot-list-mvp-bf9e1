@@ -175,7 +175,7 @@ fields:
       - label: 'Rock'
         value: 'rock'
       - label: 'Reef'
-        value: 'reef'          
+        value: 'reef'         
   - type: list
     name: bottomSections
     label: Sections
