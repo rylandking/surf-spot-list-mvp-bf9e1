@@ -122,7 +122,7 @@ fields:
         value: 'SW'
       - label: West
         value: 'W'
-      - label: All tides
+      - label: Northwest
         value: 'NW'
   - type: list
     name: bottomSections
