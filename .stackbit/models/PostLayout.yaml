@@ -80,7 +80,7 @@ fields:
       - label: Semi Gun
         value: semi-gun
       - label: Gun
-        value: semi-gun
+        value: gun
   - type: enum
     name: bestSize
     label: Best size
