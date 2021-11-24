@@ -235,7 +235,7 @@ fields:
         value: 80
       - label: 'Poor'
         value: 60
-      - label: 'Flat'
+      - label: 'Red'
         value: 40
   - type: string
     name: forecastLink
