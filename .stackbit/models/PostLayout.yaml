@@ -165,6 +165,17 @@ fields:
         value: 'sometimes'
       - label: 'No'
         value: 'no'          
+  - type: enum
+    name: isBarrel
+    label: ↔️ Does it barrel?
+    controlType: 'dropdown'
+    options:
+      - label: 'Yes'
+        value: 'yes'
+      - label: 'Sometimes'
+        value: 'sometimes'
+      - label: 'No'
+        value: 'no'          
   - type: list
     name: bottomSections
     label: Sections
