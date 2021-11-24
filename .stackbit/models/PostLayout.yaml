@@ -77,6 +77,8 @@ fields:
         value: fun-board
       - label: Long Board
         value: long-board
+      - label: Long Board
+        value: long-board
   - type: enum
     name: bestSize
     label: Best size
