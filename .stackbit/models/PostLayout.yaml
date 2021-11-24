@@ -77,6 +77,7 @@ fields:
         value: fun-board
       - label: Long Board
         value: long-board
+  
   - type: list
     name: bottomSections
     label: Sections
