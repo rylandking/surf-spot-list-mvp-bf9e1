@@ -205,8 +205,8 @@ fields:
     label: 👺 How localized is it?
     controlType: 'dropdown'
     options:
-      - label: 'yes'
-        value: 'a-zoo'
+      - label: 'Yes'
+        value: 'yes'
       - label: 'Spread Out'
         value: 'spread-out'
       - label: 'Uncrowded'
