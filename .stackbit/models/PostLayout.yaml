@@ -226,7 +226,7 @@ fields:
         value: 'in-front'
   - type: string
     name: forecastLink
-    label:  Forecast link        
+    label: 🌤 Forecast link        
   - type: list
     name: bottomSections
     label: Sections
