@@ -37,7 +37,6 @@ fields:
   - type: boolean
     name: lessonsNearby
     label: 🛖 Surf lessons nearby?
-    default: false
   - type: boolean
     name: rentalsNearby
     label: 🏡 Surf rentals nearby?
