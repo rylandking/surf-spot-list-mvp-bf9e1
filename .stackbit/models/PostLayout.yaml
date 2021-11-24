@@ -104,9 +104,9 @@ fields:
       - label: Head High
         value: medium
       - label: Double Overhead
-        value: double-overhead
+        value: high
       - label: Double Overhead+
-        value: double-overhead-plus
+        value: all
   - type: list
     name: bottomSections
     label: Sections
