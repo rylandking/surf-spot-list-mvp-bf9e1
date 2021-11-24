@@ -67,7 +67,7 @@ fields:
       - label: Expert
         value: expert
   - type: enum
-    name: skill
+    name: bestBoard
     label: Skill level
     controlType: 'dropdown'
     options:
