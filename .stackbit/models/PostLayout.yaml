@@ -387,7 +387,7 @@ fields:
       type: object
       labelField: question
       fields:
-        - type: string
+        - type: number
           name: question
           label: Question
           default: How it this different from what we have today?
