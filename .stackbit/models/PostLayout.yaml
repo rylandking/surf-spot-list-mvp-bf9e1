@@ -200,6 +200,17 @@ fields:
         value: 'spread-out'
       - label: 'Uncrowded'
         value: 'uncrowded'
+  - type: enum
+    name: crowdLevel
+    label: 🎡 How crowded is it?
+    controlType: 'dropdown'
+    options:
+      - label: 'A Zoo'
+        value: 'a-zoo'
+      - label: 'Spread Out'
+        value: 'spread-out'
+      - label: 'Uncrowded'
+        value: 'uncrowded'
   - type: list
     name: bottomSections
     label: Sections
