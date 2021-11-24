@@ -150,7 +150,7 @@ fields:
     options:
       - label: Right
         value: 'right' 
-      - label: Point
+      - label: Left
         value: 'point'
       - label: Reef
         value: 'reef'    
