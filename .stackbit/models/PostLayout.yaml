@@ -153,7 +153,18 @@ fields:
       - label: Left
         value: 'left'
       - label: Both
-        value: 'both'  
+        value: 'both' 
+  - type: enum
+    name: waveDirection
+    label: ↔️ Wave direction
+    controlType: 'dropdown'
+    options:
+      - label: Right
+        value: 'right'
+      - label: Left
+        value: 'left'
+      - label: Both
+        value: 'both'          
   - type: list
     name: bottomSections
     label: Sections
