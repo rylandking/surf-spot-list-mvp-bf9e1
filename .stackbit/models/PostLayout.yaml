@@ -74,7 +74,7 @@ fields:
       - label: Beginner
         value: short-board
       - label: Intermediate
-        value: intermediate
+        value: fun-board
       - label: Advanced
         value: advanced
   - type: list
