@@ -183,12 +183,12 @@ fields:
     label: 🏖 How comfortable is the beach?
     controlType: 'dropdown'
     options:
-      - label: 'Sand'
+      - label: 'Comfortable'
         value: 'comfortable'
-      - label: 'Rock'
+      - label: 'Semi-comfortable'
         value: 'semi-comfortable'
-      - label: 'Reef'
-        value: 'reef'        
+      - label: 'No Beach'
+        value: 'no-beach'        
   - type: list
     name: bottomSections
     label: Sections
