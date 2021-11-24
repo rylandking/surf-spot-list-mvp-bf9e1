@@ -156,7 +156,7 @@ fields:
         value: 'both' 
   - type: enum
     name: isBarrel
-    label: ↔️ Does it barrel?
+    label:  Does it barrel?
     controlType: 'dropdown'
     options:
       - label: 'Yes'
