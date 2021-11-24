@@ -119,11 +119,11 @@ fields:
       - label: Low tide
         value: 'S'
       - label: Medium tide
-        value: medium
+        value: 'SW'
       - label: High tide
-        value: high
+        value: 'W'
       - label: All tides
-        value: all
+        value: 'NW'
   - type: list
     name: bottomSections
     label: Sections
