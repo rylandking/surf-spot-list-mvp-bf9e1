@@ -79,6 +79,8 @@ fields:
         value: long-board
       - label: Semi Gun
         value: semi-gun
+      - label: Semi Gun
+        value: semi-gun
   - type: enum
     name: bestSize
     label: Best size
