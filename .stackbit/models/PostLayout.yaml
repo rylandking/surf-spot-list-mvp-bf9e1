@@ -71,12 +71,12 @@ fields:
     label: Best board
     controlType: 'dropdown'
     options:
-      - label: Beginner
+      - label: Short Board
         value: short-board
-      - label: Intermediate
+      - label: Fun Board
         value: fun-board
-      - label: Advanced
-        value: advanced
+      - label: Long Board
+        value: long-board
   - type: list
     name: bottomSections
     label: Sections
