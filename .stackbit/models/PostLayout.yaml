@@ -251,8 +251,8 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: febRating
-    label: 👺 How good is February?
+    name: marRating
+    label: 👺 How good is March?
     controlType: 'dropdown'
     options:
       - label: 'Green'
