@@ -100,9 +100,9 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Waist High
-        value: waist-high
+        value: low
       - label: Head High
-        value: head-high
+        value: medium
       - label: Double Overhead
         value: double-overhead
       - label: Double Overhead+
