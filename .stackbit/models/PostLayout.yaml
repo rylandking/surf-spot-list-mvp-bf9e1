@@ -219,7 +219,7 @@ fields:
       - label: 'Yes'
         value: 'park'
       - label: 'Be Respectful'
-        value: 'be-respectful'
+        value: 'hike'
       - label: 'No'
         value: 'no'
       - label: 'No'
