@@ -382,8 +382,6 @@ fields:
         value: 40
   - type: list
     name: surfSpotLatLng
-  - type: list
-    name: items
     label: FAQ Items
     items:
       type: object
