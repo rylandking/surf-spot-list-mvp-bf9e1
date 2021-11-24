@@ -382,7 +382,20 @@ fields:
         value: 40
   - type: 
     name: surfSpotLatLng
-    
+  - type: list
+    name: items
+    label: FAQ Items
+    items:
+      type: object
+      labelField: question
+      fields:
+        - type: string
+          name: question
+          label: Question
+          default: How it this different from what we have today?
+        - type: markdown
+          name: answer
+          label: Answer
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
