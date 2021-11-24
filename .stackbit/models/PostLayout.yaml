@@ -108,7 +108,7 @@ fields:
     label: 🌬 Best wind
     controlType: 'dropdown'
     options:
-      - label: 
+      - label: North
         value: low
       - label: Medium tide
         value: medium
