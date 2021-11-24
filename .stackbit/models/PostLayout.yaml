@@ -151,8 +151,8 @@ fields:
       - label: Right
         value: 'right' 
       - label: Left
-        value: 'point'
-      - label: Reef
+        value: 'left'
+      - label: Both
         value: 'reef'    
   - type: list
     name: bottomSections
