@@ -210,7 +210,7 @@ fields:
       - label: 'Be Respectful'
         value: 'be-respectful'
       - label: 'No'
-        value: 'uncrowded'
+        value: 'no'
   - type: list
     name: bottomSections
     label: Sections
