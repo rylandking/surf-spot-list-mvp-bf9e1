@@ -222,6 +222,8 @@ fields:
         value: 'be-respectful'
       - label: 'No'
         value: 'no'
+      - label: 'No'
+        value: 'no'
   - type: list
     name: bottomSections
     label: Sections
