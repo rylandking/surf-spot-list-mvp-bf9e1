@@ -66,6 +66,17 @@ fields:
         value: advanced
       - label: Expert
         value: expert
+   - type: enum
+    name: skill
+    label: Skill level
+    controlType: 'dropdown'
+    options:
+      - label: Beginner
+        value: beginner
+      - label: Intermediate
+        value: intermediate
+      - label: Advanced
+        value: advanced
   - type: list
     name: bottomSections
     label: Sections
