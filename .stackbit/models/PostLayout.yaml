@@ -131,7 +131,7 @@ fields:
     options:
       - label: Point
         value: 'N'
-      - label: Northeast
+      - label: Beach
         value: 'NE'
   - type: list
     name: bottomSections
