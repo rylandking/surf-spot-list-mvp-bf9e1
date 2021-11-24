@@ -232,7 +232,7 @@ fields:
       - label: '100'
         value: 100
       - label: '80'
-        value: 'hike'
+        value: 80
       - label: 'Boat'
         value: 'boat'
       - label: 'Right Out Front'
