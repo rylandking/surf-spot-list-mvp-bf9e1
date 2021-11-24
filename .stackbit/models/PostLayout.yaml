@@ -130,7 +130,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Point
-        value: ''
+        value: 'point'
       - label: Beach
         value: 'beach'
       - label: Reef
