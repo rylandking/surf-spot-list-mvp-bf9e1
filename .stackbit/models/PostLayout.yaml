@@ -110,7 +110,7 @@ fields:
     options:
       - label: North
         value: 'N'
-      - label: Medium tide
+      - label: Northeast
         value: 'NE'
       - label: High tide
         value: 'E'
