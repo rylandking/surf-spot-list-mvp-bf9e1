@@ -164,7 +164,7 @@ fields:
       - label: 'Sometimes'
         value: 'sometimes'
       - label: 'No'
-        value: 'no'          
+        value: 'no'
   - type: enum
     name: bottomType
     label: 🐠 Bottom type?
