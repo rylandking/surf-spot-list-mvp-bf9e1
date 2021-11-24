@@ -380,6 +380,7 @@ fields:
         value: 60
       - label: 'Red'
         value: 40
+  - type: 
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
