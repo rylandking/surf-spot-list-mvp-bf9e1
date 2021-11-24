@@ -139,8 +139,7 @@ fields:
         value: 'rockreef'
       - label: Slab
         value: 'slab'
-      - label: Big Wave
-        value: 'big-wave'
+
   - type: list
     name: bottomSections
     label: Sections
