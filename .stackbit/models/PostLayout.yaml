@@ -179,7 +179,7 @@ fields:
       - label: 'Rockreef'
         value: 'rockreef'
   - type: enum
-    name: beach
+    name: beachComfort
     label: 🐠 Bottom type?
     controlType: 'dropdown'
     options:
