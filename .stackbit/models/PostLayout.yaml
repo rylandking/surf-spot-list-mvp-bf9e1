@@ -60,12 +60,12 @@ fields:
     options:
       - label: Beginner
         value: beginner
-      - label: Trunks
+      - label: Intermediate
         value: intermediate
-      - label: Wetsuit
+      - label: Advanced
         value: advanced
-      - label: Trunks
-        value: trunks
+      - label: Expert
+        value: expert
   - type: list
     name: bottomSections
     label: Sections
