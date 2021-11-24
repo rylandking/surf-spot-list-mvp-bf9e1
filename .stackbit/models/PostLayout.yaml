@@ -164,7 +164,7 @@ fields:
       - label: 'Sometimes'
         value: 'sometimes'
       - label: 'No'
-        value: 'both'          
+        value: 'no'          
   - type: list
     name: bottomSections
     label: Sections
