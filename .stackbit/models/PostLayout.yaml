@@ -391,7 +391,7 @@ fields:
           name: latitude
           label: Latitude
         - type: number
-          name: answer
+          name: long
           label: Answer
   - type: string
     name: forecastLink
