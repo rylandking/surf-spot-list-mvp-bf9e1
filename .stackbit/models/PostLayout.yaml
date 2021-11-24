@@ -84,7 +84,7 @@ fields:
     options:
       - label: Short Board
         value: waist-high
-      - label: Fun Board
+      - label: Head High
         value: head-high
       - label: Double Overhead
         value: double-overhead
