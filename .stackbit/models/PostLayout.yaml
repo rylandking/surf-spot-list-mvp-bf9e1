@@ -94,6 +94,19 @@ fields:
         value: double-overhead
       - label: Double Overhead+
         value: double-overhead-plus
+  - type: enum
+    name: bestSize
+    label: Best size
+    controlType: 'dropdown'
+    options:
+      - label: Waist High
+        value: waist-high
+      - label: Head High
+        value: head-high
+      - label: Double Overhead
+        value: double-overhead
+      - label: Double Overhead+
+        value: double-overhead-plus
   - type: list
     name: bottomSections
     label: Sections
