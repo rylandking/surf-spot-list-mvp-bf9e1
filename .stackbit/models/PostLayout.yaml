@@ -105,7 +105,7 @@ fields:
         value: medium
       - label: Double Overhead
         value: high
-      - label: Double Overhead+
+      - label: All tides
         value: all
   - type: list
     name: bottomSections
