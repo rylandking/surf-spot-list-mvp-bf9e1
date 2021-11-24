@@ -233,7 +233,7 @@ fields:
         value: 100
       - label: '80'
         value: 80
-      - label: '60'
+      - label: 'Poor'
         value: 60
       - label: 'Flat'
         value: 40
