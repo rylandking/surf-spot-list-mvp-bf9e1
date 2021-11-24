@@ -394,7 +394,7 @@ fields:
           name: longitude
           label: Longitude
   - type: boolean
-    name: lessonsNearby
+    name: isPowerful
     label: 🛖 Surf lessons nearby?          
   - type: string
     name: forecastLink
