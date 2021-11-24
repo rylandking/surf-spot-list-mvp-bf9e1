@@ -225,7 +225,7 @@ fields:
       - label: 'Right Out Front'
         value: 'in-front'
   - type: string
-    name: title
+    name: forecastLink
     label: 🆔 Surf spot name        
   - type: list
     name: bottomSections
