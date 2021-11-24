@@ -196,7 +196,7 @@ fields:
     options:
       - label: 'A Zoo'
         value: 'a-zoo'
-      - label: 'Semi-comfortable'
+      - label: 'Spread Out'
         value: 'spread-out'
       - label: 'No Beach'
         value: 'minimal'        
