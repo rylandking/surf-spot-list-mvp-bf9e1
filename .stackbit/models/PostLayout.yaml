@@ -5,7 +5,6 @@ fields:
   - type: string
     name: title
     label: Surf spot name
-    required: true
   - type: enum
     name: continent
     label: 🌎 Continent
