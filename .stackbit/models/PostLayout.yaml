@@ -55,7 +55,7 @@ fields:
         value: trunks
   - type: enum
     name: skill
-    label: Water Temperature
+    label: Skill level
     controlType: 'dropdown'
     options:
       - label: Wetsuit
