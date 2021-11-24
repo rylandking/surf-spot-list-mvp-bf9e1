@@ -153,7 +153,7 @@ fields:
       - label: Left
         value: 'left'
       - label: Both
-        value: 'reef'    
+        value: 'both'    
   - type: list
     name: bottomSections
     label: Sections
