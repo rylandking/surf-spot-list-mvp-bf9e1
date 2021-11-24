@@ -148,8 +148,8 @@ fields:
     label: ↔️ Wave direction
     controlType: 'dropdown'
     options:
-      - label: Beach
-        value: 'beach' 
+      - label: Right
+        value: 'left' 
       - label: Point
         value: 'point'
       - label: Reef
