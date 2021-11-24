@@ -58,7 +58,7 @@ fields:
     label: Skill level
     controlType: 'dropdown'
     options:
-      - label: Wetsuit
+      - label: Beginner
         value: wetsuit
       - label: Trunks
         value: trunks
