@@ -225,7 +225,7 @@ fields:
       - label: 'Right Out Front'
         value: 'in-front'
   - type: enum
-    name: jan
+    name: janRating
     label: 👺 How accessible is it?
     controlType: 'dropdown'
     options:
