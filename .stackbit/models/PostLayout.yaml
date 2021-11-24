@@ -124,6 +124,15 @@ fields:
         value: 'W'
       - label: Northwest
         value: 'NW'
+  - type: enum
+    name: bestWind
+    label: 🌬 Best wind
+    controlType: 'dropdown'
+    options:
+      - label: North
+        value: 'N'
+      - label: Northeast
+        value: 'NE'
   - type: list
     name: bottomSections
     label: Sections
