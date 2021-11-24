@@ -4,7 +4,7 @@ layout: PostLayout
 fields:
   - type: string
     name: title
-    label: Surf spot Name
+    label: Surf spot name
     required: true
   - type: enum
     name: continent
