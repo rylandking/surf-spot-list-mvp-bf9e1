@@ -143,7 +143,17 @@ fields:
     name: isBigWave
     label: 🌊 Big wave spot?
     default: false
-    
+  - type: enum
+    name: waveType
+    label: 🌊 Wave type
+    controlType: 'dropdown'
+    options:
+      - label: Beach
+        value: 'beach' 
+      - label: Point
+        value: 'point'
+      - label: Reef
+        value: 'reef'    
   - type: list
     name: bottomSections
     label: Sections
