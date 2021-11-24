@@ -197,7 +197,7 @@ fields:
       - label: 'Comfortable'
         value: 'a-zoo'
       - label: 'Semi-comfortable'
-        value: 'semi-comfortable'
+        value: 'spread-out'
       - label: 'No Beach'
         value: 'no-beach'        
   - type: list
