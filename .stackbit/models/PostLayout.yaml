@@ -355,7 +355,7 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: octRating
+    name: novRating
     label: 📅 How good is October?
     controlType: 'dropdown'
     options:
