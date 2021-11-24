@@ -381,6 +381,7 @@ fields:
       - label: 'Red'
         value: 40
   - type: 
+    name: surfSpot
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
