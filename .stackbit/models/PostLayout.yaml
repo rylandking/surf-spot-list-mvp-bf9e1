@@ -129,6 +129,8 @@ fields:
     label: 🌊 Wave type
     controlType: 'dropdown'
     options:
+      - label: Beach
+        value: 'beach' 
       - label: Point
         value: 'point'
       - label: Reef
