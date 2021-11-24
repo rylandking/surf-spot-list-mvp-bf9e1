@@ -190,7 +190,7 @@ fields:
       - label: 'No Beach'
         value: 'no-beach'        
   - type: enum
-    name: beachComfort
+    name: crowdLevel
     label: 🏖 How comfortable is the beach?
     controlType: 'dropdown'
     options:
