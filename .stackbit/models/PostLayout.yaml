@@ -224,6 +224,9 @@ fields:
         value: 'boat'
       - label: 'Right Out Front'
         value: 'in-front'
+  - type: string
+    name: title
+    label: 🆔 Surf spot name        
   - type: list
     name: bottomSections
     label: Sections
