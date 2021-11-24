@@ -178,6 +178,17 @@ fields:
         value: 'reef'
       - label: 'Rockreef'
         value: 'rockreef'
+  - type: enum
+    name: bottomType
+    label: 🐠 Bottom type?
+    controlType: 'dropdown'
+    options:
+      - label: 'Sand'
+        value: 'sand'
+      - label: 'Rock'
+        value: 'rock'
+      - label: 'Reef'
+        value: 'reef'        
   - type: list
     name: bottomSections
     label: Sections
