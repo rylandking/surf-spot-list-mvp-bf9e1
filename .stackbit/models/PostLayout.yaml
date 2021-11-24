@@ -231,7 +231,7 @@ fields:
     options:
       - label: '100'
         value: 100
-      - label: 'Hike'
+      - label: '80'
         value: 'hike'
       - label: 'Boat'
         value: 'boat'
