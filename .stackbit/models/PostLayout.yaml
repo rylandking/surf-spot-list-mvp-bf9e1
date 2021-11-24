@@ -82,7 +82,7 @@ fields:
     label: Best size
     controlType: 'dropdown'
     options:
-      - label: Short Board
+      - label: Waist High
         value: waist-high
       - label: Head High
         value: head-high
