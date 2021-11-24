@@ -217,7 +217,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: 'Yes'
-        value: 'yes'
+        value: 'park'
       - label: 'Be Respectful'
         value: 'be-respectful'
       - label: 'No'
