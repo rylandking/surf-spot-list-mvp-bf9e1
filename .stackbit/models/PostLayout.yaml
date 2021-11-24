@@ -95,8 +95,8 @@ fields:
       - label: Double Overhead+
         value: double-overhead-plus
   - type: enum
-    name: bestSize
-    label: Best size
+    name: bestTide
+    label: Best tide
     controlType: 'dropdown'
     options:
       - label: Waist High
