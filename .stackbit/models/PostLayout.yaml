@@ -201,7 +201,7 @@ fields:
       - label: 'Uncrowded'
         value: 'uncrowded'
   - type: enum
-    name: crowdLevel
+    name: localismLevel
     label: 🎡 How crowded is it?
     controlType: 'dropdown'
     options:
