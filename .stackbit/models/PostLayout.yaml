@@ -233,7 +233,7 @@ fields:
         value: 100
       - label: '80'
         value: 80
-      - label: 'Boat'
+      - label: '60'
         value: 'boat'
       - label: 'Right Out Front'
         value: 'in-front'
