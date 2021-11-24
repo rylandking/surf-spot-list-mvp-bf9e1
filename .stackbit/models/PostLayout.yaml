@@ -139,7 +139,9 @@ fields:
         value: 'rockreef'
       - label: Slab
         value: 'slab'
-
+  - type: boolean
+    name: rentalsNearby
+    label: 🏡 Surf rentals nearby?
   - type: list
     name: bottomSections
     label: Sections
