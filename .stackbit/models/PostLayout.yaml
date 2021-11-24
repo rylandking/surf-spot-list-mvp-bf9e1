@@ -221,7 +221,7 @@ fields:
       - label: 'Be Respectful'
         value: 'hike'
       - label: 'No'
-        value: 'no'
+        value: 'boat'
       - label: 'No'
         value: 'no'
   - type: list
