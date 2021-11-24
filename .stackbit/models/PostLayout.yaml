@@ -72,7 +72,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Beginner
-        value: beginner
+        value: short-board
       - label: Intermediate
         value: intermediate
       - label: Advanced
