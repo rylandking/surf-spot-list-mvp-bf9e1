@@ -126,7 +126,7 @@ fields:
         value: 'NW'
   - type: enum
     name: waveType
-    label: Wave type
+    label: 🌊 Wave type
     controlType: 'dropdown'
     options:
       - label: Point
