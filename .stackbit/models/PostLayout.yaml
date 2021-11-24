@@ -105,7 +105,7 @@ fields:
         value: all
   - type: enum
     name: bestWind
-    label: ♒ Best wind
+    label: 🌬 Best wind
     controlType: 'dropdown'
     options:
       - label: Low tide
