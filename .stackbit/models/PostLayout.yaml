@@ -145,7 +145,7 @@ fields:
     default: false
   - type: enum
     name: waveDirection
-    label:  Wave direction
+    label: ↔️ Wave direction
     controlType: 'dropdown'
     options:
       - label: Beach
