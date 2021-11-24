@@ -194,7 +194,7 @@ fields:
     label: 🎡 How crowded is it?
     controlType: 'dropdown'
     options:
-      - label: 'Comfortable'
+      - label: 'A Zoo'
         value: 'a-zoo'
       - label: 'Semi-comfortable'
         value: 'spread-out'
