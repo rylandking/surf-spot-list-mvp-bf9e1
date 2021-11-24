@@ -329,8 +329,8 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: augRating
-    label: 📅 How good is August?
+    name: sepRating
+    label: 📅 How good is September?
     controlType: 'dropdown'
     options:
       - label: 'Green'
