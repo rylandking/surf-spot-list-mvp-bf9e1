@@ -303,7 +303,7 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: junRating
+    name: julRating
     label: 📅 How good is June?
     controlType: 'dropdown'
     options:
