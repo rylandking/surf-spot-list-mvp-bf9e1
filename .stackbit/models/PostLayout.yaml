@@ -101,7 +101,7 @@ fields:
     options:
       - label: Waist High
         value: low
-      - label: Head High
+      - label: Medium tide
         value: medium
       - label: High tide
         value: high
