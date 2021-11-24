@@ -59,7 +59,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Beginner
-        value: wetsuit
+        value: beginner
       - label: Trunks
         value: trunks
       - label: Wetsuit
