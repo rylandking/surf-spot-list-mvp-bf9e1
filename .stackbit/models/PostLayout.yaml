@@ -159,7 +159,7 @@ fields:
     label: ↔️ Does it barrel?
     controlType: 'dropdown'
     options:
-      - label: Yes
+      - label: 'Yes'
         value: 'yes'
       - label: Left
         value: 'left'
