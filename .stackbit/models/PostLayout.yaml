@@ -116,7 +116,7 @@ fields:
         value: 'E'
       - label: Southeast
         value: 'SE'
-      - label: Low tide
+      - label: Sout
         value: 'S'
       - label: Medium tide
         value: 'SW'
