@@ -141,7 +141,7 @@ fields:
         value: 'slab'
   - type: boolean
     name: isBigWave
-    label: 🏡 Surf rentals nearby?
+    label:  Big wave spot?
   - type: list
     name: bottomSections
     label: Sections
