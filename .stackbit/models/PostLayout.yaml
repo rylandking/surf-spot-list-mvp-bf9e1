@@ -289,6 +289,19 @@ fields:
         value: 60
       - label: 'Red'
         value: 40
+  - type: enum
+    name: mayRating
+    label: 📅 How good is May?
+    controlType: 'dropdown'
+    options:
+      - label: 'Green'
+        value: 100
+      - label: 'Light Green'
+        value: 80
+      - label: 'Yellow'
+        value: 60
+      - label: 'Red'
+        value: 40
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
