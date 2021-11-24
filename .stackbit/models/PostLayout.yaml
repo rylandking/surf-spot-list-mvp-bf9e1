@@ -238,8 +238,8 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: janRating
-    label: 👺 How good is January?
+    name: febRating
+    label: 👺 How good is February?
     controlType: 'dropdown'
     options:
       - label: 'Green'
