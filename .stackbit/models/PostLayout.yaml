@@ -83,7 +83,7 @@ fields:
         value: gun
   - type: enum
     name: bestSize
-    label: Best size
+    label: 🌊 Best size
     controlType: 'dropdown'
     options:
       - label: Waist High
