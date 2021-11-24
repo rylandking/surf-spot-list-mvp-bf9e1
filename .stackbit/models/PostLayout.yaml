@@ -218,7 +218,7 @@ fields:
     options:
       - label: 'Park'
         value: 'park'
-      - label: 'Be Respectful'
+      - label: 'Hike'
         value: 'hike'
       - label: 'No'
         value: 'boat'
