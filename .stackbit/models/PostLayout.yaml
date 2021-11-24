@@ -202,7 +202,7 @@ fields:
         value: 'uncrowded'
   - type: enum
     name: localismLevel
-    label: 👺Localism:How localized is it?
+    label: 👺 How localized is it?
     controlType: 'dropdown'
     options:
       - label: 'A Zoo'
