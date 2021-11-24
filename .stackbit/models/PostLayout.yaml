@@ -230,7 +230,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: '100'
-        value: 'park'
+        value: 100
       - label: 'Hike'
         value: 'hike'
       - label: 'Boat'
