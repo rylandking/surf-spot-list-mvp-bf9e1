@@ -161,8 +161,8 @@ fields:
     options:
       - label: 'Yes'
         value: 'yes'
-      - label: Left
-        value: 'left'
+      - label: 'Sometimes'
+        value: 'sometimes'
       - label: Both
         value: 'both'          
   - type: list
