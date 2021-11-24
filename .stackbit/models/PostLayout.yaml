@@ -207,7 +207,7 @@ fields:
     options:
       - label: 'Yes'
         value: 'yes'
-      - label: 'Spread Out'
+      - label: 'be-respectful'
         value: 'spread-out'
       - label: 'Uncrowded'
         value: 'uncrowded'
