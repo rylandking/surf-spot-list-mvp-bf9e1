@@ -304,7 +304,7 @@ fields:
         value: 40
   - type: enum
     name: julRating
-    label: 📅 How good is June?
+    label: 📅 How good is July?
     controlType: 'dropdown'
     options:
       - label: 'Green'
