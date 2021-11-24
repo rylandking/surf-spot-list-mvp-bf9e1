@@ -180,7 +180,7 @@ fields:
         value: 'rockreef'
   - type: enum
     name: beachComfort
-    label: 🐠 How comfortable is the beach?
+    label:  How comfortable is the beach?
     controlType: 'dropdown'
     options:
       - label: 'Sand'
