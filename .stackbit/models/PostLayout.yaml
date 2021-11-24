@@ -88,6 +88,8 @@ fields:
         value: head-high
       - label: Double Overhead
         value: double-overhead
+      - label: Double Overhead
+        value: double-overhead
   - type: list
     name: bottomSections
     label: Sections
