@@ -224,6 +224,19 @@ fields:
         value: 'boat'
       - label: 'Right Out Front'
         value: 'in-front'
+  - type: enum
+    name: accessibility
+    label: 👺 How accessible is it?
+    controlType: 'dropdown'
+    options:
+      - label: 'Park'
+        value: 'park'
+      - label: 'Hike'
+        value: 'hike'
+      - label: 'Boat'
+        value: 'boat'
+      - label: 'Right Out Front'
+        value: 'in-front'
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
