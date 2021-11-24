@@ -4,7 +4,7 @@ layout: PostLayout
 fields:
   - type: string
     name: title
-    label: Surf spot name
+    label: 🆔 Surf spot name
   - type: enum
     name: continent
     label: 🌎 Continent
