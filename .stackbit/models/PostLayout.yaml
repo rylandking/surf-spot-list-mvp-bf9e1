@@ -104,7 +104,7 @@ fields:
       - label: All tides
         value: all
   - type: enum
-    name: bestTide
+    name: bestWind
     label: ♒︎ Best tide
     controlType: 'dropdown'
     options:
