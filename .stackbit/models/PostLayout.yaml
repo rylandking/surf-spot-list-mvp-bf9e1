@@ -220,7 +220,7 @@ fields:
         value: 'park'
       - label: 'Hike'
         value: 'hike'
-      - label: 'No'
+      - label: 'Boat'
         value: 'boat'
       - label: 'Right Out Front'
         value: 'in-front'
