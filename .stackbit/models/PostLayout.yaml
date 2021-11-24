@@ -163,7 +163,7 @@ fields:
         value: 'yes'
       - label: 'Sometimes'
         value: 'sometimes'
-      - label: Both
+      - label: 'No'
         value: 'both'          
   - type: list
     name: bottomSections
