@@ -199,7 +199,7 @@ fields:
       - label: 'Semi-comfortable'
         value: 'spread-out'
       - label: 'No Beach'
-        value: 'no-beach'        
+        value: 'minimal'        
   - type: list
     name: bottomSections
     label: Sections
