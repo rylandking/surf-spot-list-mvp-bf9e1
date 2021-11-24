@@ -40,7 +40,7 @@ fields:
     default: false
   - type: boolean
     name: rentalsNearby
-    label: Surf rentals nearby?
+    label: 🏡 Surf rentals nearby?
     default: false
   - type: enum
     name: waterTemp
