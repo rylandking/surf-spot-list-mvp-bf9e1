@@ -86,8 +86,8 @@ fields:
         value: waist-high
       - label: Fun Board
         value: head-high
-      - label: Long Board
-        value: long-board
+      - label: Double Overhead
+        value: double-overhead
   - type: list
     name: bottomSections
     label: Sections
