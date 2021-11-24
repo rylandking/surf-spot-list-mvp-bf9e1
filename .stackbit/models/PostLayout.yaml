@@ -149,7 +149,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Right
-        value: 'left' 
+        value: 'right' 
       - label: Point
         value: 'point'
       - label: Reef
