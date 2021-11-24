@@ -388,7 +388,7 @@ fields:
       labelField: question
       fields:
         - type: number
-          name: question
+          name: latit
           label: Question
           default: How it this different from what we have today?
         - type: markdown
