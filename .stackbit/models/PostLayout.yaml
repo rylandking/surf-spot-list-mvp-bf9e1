@@ -103,7 +103,7 @@ fields:
         value: low
       - label: Head High
         value: medium
-      - label: Double Overhead
+      - label: High tide
         value: high
       - label: All tides
         value: all
