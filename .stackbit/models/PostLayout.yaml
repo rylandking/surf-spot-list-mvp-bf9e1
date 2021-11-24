@@ -83,7 +83,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Short Board
-        value: short-board
+        value: waist-high
       - label: Fun Board
         value: fun-board
       - label: Long Board
