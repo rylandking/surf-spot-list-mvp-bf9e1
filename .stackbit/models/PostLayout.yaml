@@ -160,7 +160,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Yes
-        value: 'right'
+        value: 'yes'
       - label: Left
         value: 'left'
       - label: Both
