@@ -155,7 +155,7 @@ fields:
       - label: Both
         value: 'both' 
   - type: enum
-    name: waveDirection
+    name: isBarrel
     label: ↔️ Wave direction
     controlType: 'dropdown'
     options:
