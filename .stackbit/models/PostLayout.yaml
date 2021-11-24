@@ -116,6 +116,14 @@ fields:
         value: high
       - label: All tides
         value: all
+      - label: Low tide
+        value: low
+      - label: Medium tide
+        value: medium
+      - label: High tide
+        value: high
+      - label: All tides
+        value: all
   - type: list
     name: bottomSections
     label: Sections
