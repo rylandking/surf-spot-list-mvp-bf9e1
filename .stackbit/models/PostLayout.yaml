@@ -130,9 +130,9 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Point
-        value: 'N'
+        value: ''
       - label: Beach
-        value: 'NE'
+        value: ''
   - type: list
     name: bottomSections
     label: Sections
