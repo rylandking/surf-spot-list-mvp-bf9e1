@@ -385,7 +385,7 @@ fields:
     label: Surf Spot Coordinates
     items:
       type: object
-      labelField: La
+      labelField: question
       fields:
         - type: string
           name: question
