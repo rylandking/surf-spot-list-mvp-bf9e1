@@ -235,7 +235,7 @@ fields:
         value: 80
       - label: '60'
         value: 60
-      - label: 'Right Out Front'
+      - label: '40'
         value: 'in-front'
   - type: string
     name: forecastLink
