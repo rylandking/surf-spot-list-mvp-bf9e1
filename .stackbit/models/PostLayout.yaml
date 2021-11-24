@@ -109,7 +109,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: North
-        value: N
+        value: 'N'
       - label: Medium tide
         value: medium
       - label: High tide
