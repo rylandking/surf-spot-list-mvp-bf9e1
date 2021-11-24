@@ -53,6 +53,19 @@ fields:
         value: wetsuit
       - label: Trunks
         value: trunks
+  - type: enum
+    name: skill
+    label: Water Temperature
+    controlType: 'dropdown'
+    options:
+      - label: Wetsuit
+        value: wetsuit
+      - label: Trunks
+        value: trunks
+      - label: Wetsuit
+        value: wetsuit
+      - label: Trunks
+        value: trunks
   - type: list
     name: bottomSections
     label: Sections
