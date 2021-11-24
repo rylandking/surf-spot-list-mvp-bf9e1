@@ -89,7 +89,7 @@ fields:
       - label: Double Overhead
         value: double-overhead
       - label: Double Overhead+
-        value: double-overhead-
+        value: double-overhead-plus
   - type: list
     name: bottomSections
     label: Sections
