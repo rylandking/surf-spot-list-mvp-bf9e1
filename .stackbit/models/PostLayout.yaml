@@ -125,7 +125,7 @@ fields:
       - label: Northwest
         value: 'NW'
   - type: enum
-    name: bestWind
+    name: waveType
     label: 🌬 Best wind
     controlType: 'dropdown'
     options:
