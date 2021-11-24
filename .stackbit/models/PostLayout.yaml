@@ -140,7 +140,7 @@ fields:
       - label: Slab
         value: 'slab'
   - type: boolean
-    name: rentalsNearby
+    name: bigWave
     label: 🏡 Surf rentals nearby?
   - type: list
     name: bottomSections
