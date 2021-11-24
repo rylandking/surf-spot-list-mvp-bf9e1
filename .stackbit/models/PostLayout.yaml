@@ -112,7 +112,7 @@ fields:
         value: 'N'
       - label: Northeast
         value: 'NE'
-      - label: High tide
+      - label: East
         value: 'E'
       - label: All tides
         value: 'SE'
