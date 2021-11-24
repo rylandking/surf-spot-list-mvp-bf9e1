@@ -132,7 +132,9 @@ fields:
       - label: Point
         value: ''
       - label: Beach
-        value: ''
+        value: 'beach'
+      - label: Reef
+        value: 'reef'
       - label: Rockreef
         value: 'rockreef'
   - type: list
