@@ -144,7 +144,7 @@ fields:
     label: 🌊 Big wave spot?
     default: false
   - type: enum
-    name: waveType
+    name: waveDirection
     label: 🌊 Wave type
     controlType: 'dropdown'
     options:
