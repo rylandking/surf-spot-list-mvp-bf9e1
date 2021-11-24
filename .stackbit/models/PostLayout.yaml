@@ -149,7 +149,7 @@ fields:
     controlType: 'dropdown'
     options:
       - label: Right
-        value: 'right' 
+        value: 'right'
       - label: Left
         value: 'left'
       - label: Both
