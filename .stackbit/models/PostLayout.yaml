@@ -111,13 +111,13 @@ fields:
       - label: North
         value: 'N'
       - label: Medium tide
-        value: medium
+        value: 'NE'
       - label: High tide
-        value: high
+        value: 'E'
       - label: All tides
-        value: all
+        value: 'SE'
       - label: Low tide
-        value: low
+        value: 'N'
       - label: Medium tide
         value: medium
       - label: High tide
