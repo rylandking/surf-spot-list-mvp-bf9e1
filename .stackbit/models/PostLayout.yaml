@@ -85,7 +85,7 @@ fields:
       - label: Short Board
         value: waist-high
       - label: Fun Board
-        value: fun-board
+        value: head-high
       - label: Long Board
         value: long-board
   - type: list
