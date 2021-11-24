@@ -388,8 +388,8 @@ fields:
       labelField: question
       fields:
         - type: number
-          name: latit
-          label: Question
+          name: latitude
+          label: Latitude
           default: How it this different from what we have today?
         - type: markdown
           name: answer
