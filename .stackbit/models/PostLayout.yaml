@@ -207,7 +207,7 @@ fields:
     options:
       - label: 'Yes'
         value: 'yes'
-      - label: 'be-respectful'
+      - label: 'Be Respectful'
         value: 'be-respectful'
       - label: 'Uncrowded'
         value: 'uncrowded'
