@@ -380,7 +380,7 @@ fields:
         value: 60
       - label: 'Red'
         value: 40
-  - type: 
+  - type: list
     name: surfSpotLatLng
   - type: list
     name: items
