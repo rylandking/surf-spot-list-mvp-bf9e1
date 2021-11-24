@@ -142,7 +142,7 @@ fields:
   - type: boolean
     name: isBigWave
     label: 🌊 Big wave spot?
-    
+    default: false
   - type: list
     name: bottomSections
     label: Sections
