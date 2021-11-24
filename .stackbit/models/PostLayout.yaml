@@ -131,8 +131,6 @@ fields:
     options:
       - label: Point
         value: 'point'
-      - label: Beach
-        value: 'beach'
       - label: Reef
         value: 'reef'
       - label: Rockreef
