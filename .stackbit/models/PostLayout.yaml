@@ -171,11 +171,11 @@ fields:
     controlType: 'dropdown'
     options:
       - label: 'Yes'
-        value: 'yes'
+        value: 'sand'
       - label: 'Sometimes'
-        value: 'sometimes'
+        value: 'rock'
       - label: 'No'
-        value: 'no'          
+        value: 'reef'          
   - type: list
     name: bottomSections
     label: Sections
