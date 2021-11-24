@@ -216,7 +216,7 @@ fields:
     label: 👺 How accessible is it?
     controlType: 'dropdown'
     options:
-      - label: 'Yes'
+      - label: 'Park'
         value: 'park'
       - label: 'Be Respectful'
         value: 'hike'
