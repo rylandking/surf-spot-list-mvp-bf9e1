@@ -231,7 +231,7 @@ fields:
     options:
       - label: '100'
         value: 100
-      - label: '80'
+      - label: 'Light Green'
         value: 80
       - label: 'Yellow'
         value: 60
