@@ -368,8 +368,8 @@ fields:
       - label: 'Red'
         value: 40
   - type: enum
-    name: novRating
-    label: 📅 How good is November?
+    name: decRating
+    label: 📅 How good is December?
     controlType: 'dropdown'
     options:
       - label: 'Green'
