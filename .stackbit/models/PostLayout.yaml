@@ -78,7 +78,7 @@ fields:
       - label: Long Board
         value: long-board
   - type: enum
-    name: bestBoard
+    name: bestSize
     label: Best board
     controlType: 'dropdown'
     options:
