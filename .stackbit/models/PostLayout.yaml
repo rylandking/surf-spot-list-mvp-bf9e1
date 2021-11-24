@@ -223,7 +223,7 @@ fields:
       - label: 'No'
         value: 'boat'
       - label: 'No'
-        value: 'no'
+        value: 'in-front'
   - type: list
     name: bottomSections
     label: Sections
