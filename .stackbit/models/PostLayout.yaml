@@ -129,7 +129,7 @@ fields:
     label: Wave type
     controlType: 'dropdown'
     options:
-      - label: North
+      - label: Point
         value: 'N'
       - label: Northeast
         value: 'NE'
