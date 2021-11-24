@@ -199,7 +199,7 @@ fields:
       - label: 'Spread Out'
         value: 'spread-out'
       - label: 'Uncrowded'
-        value: 'uncrowded'        
+        value: 'uncrowded'
   - type: list
     name: bottomSections
     label: Sections
