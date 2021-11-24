@@ -96,7 +96,7 @@ fields:
         value: double-overhead-plus
   - type: enum
     name: bestTide
-    label: Best tide
+    label: ♒︎ Best tide
     controlType: 'dropdown'
     options:
       - label: Low tide
