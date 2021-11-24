@@ -393,6 +393,9 @@ fields:
         - type: number
           name: longitude
           label: Longitude
+  - type: boolean
+    name: lessonsNearby
+    label: 🛖 Surf lessons nearby?          
   - type: string
     name: forecastLink
     label: 🌤 Forecast link        
