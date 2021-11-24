@@ -133,8 +133,8 @@ fields:
         value: ''
       - label: Beach
         value: ''
-      - label: Beach
-        value: ''
+      - label: Rockreef
+        value: 'Rockreef'
   - type: list
     name: bottomSections
     label: Sections
