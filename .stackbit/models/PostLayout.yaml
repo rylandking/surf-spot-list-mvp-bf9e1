@@ -63,7 +63,7 @@ fields:
       - label: Trunks
         value: intermediate
       - label: Wetsuit
-        value: wetsuit
+        value: advanced
       - label: Trunks
         value: trunks
   - type: list
