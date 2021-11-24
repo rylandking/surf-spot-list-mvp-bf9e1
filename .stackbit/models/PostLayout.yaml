@@ -117,7 +117,7 @@ fields:
       - label: All tides
         value: 'SE'
       - label: Low tide
-        value: 'N'
+        value: 'S'
       - label: Medium tide
         value: medium
       - label: High tide
